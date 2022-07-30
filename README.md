@@ -18,7 +18,7 @@
 - Dark master#9831 for Arabic translations
 
 # SwitchElement 插件 如何使用它
- - 必要的 用户权限要求 （player.switchElement）
+ - 必要的 用户权限 <b>（player.switchElement）</b>
 
 - 在游戏聊天窗口输入  /se 或 /switchelement  <元素名>    // 例如：   /se electro   即可切换雷元素。 <br> 
 - Elements: white/anemo/geo/electro/dendro            //分别代表：无元素/风/岩/雷/草 <br> 
