@@ -1,9 +1,9 @@
-### 插件由https://github.com/Penelopeep/SwitchElementTraveller开发，我这里是分支
+#### 插件作者（我这里是分支） https://github.com/Penelopeep/SwitchElementTraveller
 
 #### 寻求帮助：
 
-- 由于版本更新，添加了多语言支持，我需要翻译人员来处理缺失的语言<br>
-- 任务很简单，我只需要你翻译6行文字 文件目录：witchElementTraveller/src/main/resources/
+- 由于版本更新，添加了多语言支持，需要翻译人员来处理缺失的语言<br>
+- 任务很简单，只需要你翻译6行文字 文件目录：witchElementTraveller/src/main/resources/
 - es-ES
 - ro-RO
 - zh-TW <br>
