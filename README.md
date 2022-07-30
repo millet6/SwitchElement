@@ -1,55 +1,53 @@
-## DON'T POST PLUGIN ISSUES ON OFFICIAL GC GITHUB PAGE OR I'LL FIND YOU AND MAKE HELL OUT OF YOUR LIFE
-Just dm me please: <b>Penelopeep#7963</b>
+### 插件由https://github.com/Penelopeep/SwitchElementTraveller开发，我这里是分支
 
-# Looking for help: <br>
-Since with the newest update I added multi-language support now I need translators for missing languages:<br>
+#### 寻求帮助：
+
+- 由于版本更新，添加了多语言支持，我需要翻译人员来处理缺失的语言<br>
+- 任务很简单，我只需要你翻译6行文字 文件目录：witchElementTraveller/src/main/resources/
 - es-ES
 - ro-RO
 - zh-TW <br>
 
-The task is simple, I just need you to translate 6 lines of text <br>
-<a href="https://github.com/Penelopeep/SwitchElementTraveller/blob/Main/src/main/resources/en_US.json">The file to translate is this</a> and translated one send me on discord <b>Penelopeep#7963</b>, or make pull request if you want ¯\\_(ツ)_/¯ <br>
-You'll be included in this readme
-
-# SwitchElement
-Simple, mostly stolen script from one of pr in official gc, which allows to quickly change traveller element.<br>
-I just changed it to plugin and added multilanguage support. <br>
-### Credits:
+- 文件翻译后发给我 Penelopeep#7963 ，或者提出 pull request ¯\ (ツ) /¯
+- 您将被包含在本自述文件中<br>
+### 参与翻译人员如下:
 - hartie95#8966 for amazing help with rewriting code
 - RomanF#0609 for Russian translation
 - tingtong#5633 and <a href="https://github.com/millet6">millet6</a> for Chinese translation
 - Praë#0009 for French translations
 - Dark master#9831 for Arabic translations
 
-- Original pr: https://github.com/Grasscutters/Grasscutter/pull/1287
+# SwitchElement 插件 如何使用它
 
-## Usage
-Use /se <element> or /switchelement <element> <br>
-Elements: white/anemo/geo/electro/dendro <br>
-white = no element <br>
-Also you can use alternative names:
-- <b>Anemo</b>: Air, Wind
-- <b>Cryo</b>: Ice
-- <b>Dendro</b>: Grass, Plant
-- <b>Geo</b>: Rock
-- <b>Hydro</b>: Water
-- <b>Pyro</b>: Fire
-- <b>White</b>: Common
+- 在游戏聊天窗口输入  /se 或 /switchelement  <元素名>    // 例如：   /se electro   即可切换雷元素。 <br> 
+- Elements: white/anemo/geo/electro/dendro            //分别代表：无元素/风/岩/雷/草 <br> 
+- white （白色 = 无元素）
 
-For dendro you need to have:
-1. Genshin 2.8.5 beta
-2. Grasscutter supporting that version
+#### 您也可以使用其他名称：
+- <b>Anemo</b>: Air, Wind /风
+- <b>Cryo</b>: Ice /冰
+- <b>Dendro</b>: Grass, Plant/草，植物
+- <b>Geo</b>: Rock /岩
+- <b>Hydro</b>: Water /水
+- <b>Pyro</b>: Fire  /火
+- <b>White</b>: Common /无元素
 
+对于插件的更新多元素支持，您需要：
+
+    - 原神 2.8.5 测试版
+    -  支持该版本的 Grasscutter
 
 ## Building
-I don't know why would you want to build it but:
-1. Download maven from apache website
-2. Open command prompt/powershell in your project folder (Sorry Linux and MacOS users, you'll need to find your own way for this)
-3. Run <b>mvn package</b>
-4. Now jar file should be in new target folder
 
-### Version
-The plugin is based on plugin template from Grasscutters GitHub.
+- 我不知道您为什么要构建它，但是：
 
-#### Also this code is ugly, don't look, it's my first time trying things is java
-#### If you have any question then dm me: Penelopeep#7963
+    - 从apache网站下载maven
+    - 在您的项目文件夹中打开命令提示符/powershell（对不起，Linux 和 MacOS 用户，您需要为此找到自己的方式）
+    - Run <b>mvn package</b>
+    -  现在 jar 文件应该在新的目标文件夹中
+
+#### 作者留言
+
+- 该插件基于 Grasscutters GitHub 的插件模板。
+- 这段代码很丑，别看，这是我第一次尝试java
+- 如果您有任何问题，请私信我：Penelopeep#7963 
